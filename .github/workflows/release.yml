@@ -20,3 +20,5 @@ jobs:
       git_user_email: peavers@gmail.com
       use_self_hosted: true
     secrets: inherit
+
+# Touched to force workflow registration after repo creation
