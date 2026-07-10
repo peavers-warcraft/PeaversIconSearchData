@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: PeaversIconSearchData
+  description: "A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, generated from wago.tools db2 exports."
+  annotations:
+    github.com/project-slug: peavers-warcraft/PeaversIconSearchData
+spec:
+  type: library
+  lifecycle: production
+  owner: peavers-warcraft

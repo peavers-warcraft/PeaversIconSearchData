@@ -1,0 +1,11 @@
+# .peavers.yml - Addon metadata for peavers.io website
+
+# Icon to display on website
+iconType: DataRuneIcon
+
+# Tags for filtering and categorization
+tags:
+  - icons
+  - transmog
+  - data
+  - library
