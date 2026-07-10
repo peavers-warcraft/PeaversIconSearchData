@@ -1,16 +1,17 @@
 # PeaversIconSearchData
 
-Item name to icon fileID data for World of Warcraft, generated from wago.tools db2 exports.
-
-[peavers.io](https://peavers.io) | [Report Issues](https://github.com/peavers-warcraft/PeaversIconSearchData/issues)
+A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.
 
 ## Features
 
+<!-- peavers:features -->
 - Every player-visible item name mapped to its icon fileID, with slot/armor-type search tags (e.g. "cloth shoulder", "sword 2h")
 - Refreshed daily against the latest retail build by the `iconsearch-module` Lambda in PeaversAddonDataSupplier
 - Clean public API consumed by [PeaversIconSearch](https://github.com/peavers-warcraft/PeaversIconSearch) and available to any addon
 - No configuration, no saved variables — pure data provider
+<!-- /peavers:features -->
 
+<!-- peavers:custom -->
 ## API
 
 The addon exposes a global `PeaversIconSearchData.API`:
@@ -27,7 +28,12 @@ local blob = table.concat(chunks, "\n")
 
 The data ships as raw string chunks rather than 80k+ table entries so consumers can
 search it as a single string, keeping load time and memory low.
+<!-- /peavers:custom -->
 
 ## Installation
 
-Installed automatically as a dependency of PeaversIconSearch, or manually from CurseForge.
+This is a data library used by other Peavers addons and doesn't require direct user interaction. [PeaversUpdater](https://github.com/peavers-warcraft/PeaversUpdater/releases/latest) installs and updates it automatically alongside its parent addon, or download it directly from [CurseForge](https://www.curseforge.com/wow/addons/peaversiconsearchdata).
+
+---
+
+*Part of the [Peavers](https://peavers.io) addon collection · [Report an issue](https://github.com/peavers-warcraft/PeaversIconSearchData/issues) · [Support development on Patreon](https://www.patreon.com/Peavers)*
