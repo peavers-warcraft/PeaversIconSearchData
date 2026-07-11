@@ -30,6 +30,7 @@ The data ships as raw string chunks rather than 80k+ table entries so consumers 
 search it as a single string, keeping load time and memory low.
 <!-- /peavers:custom -->
 
+
 ## Installation
 
 This is a data library used by other Peavers addons and doesn't require direct user interaction. [PeaversUpdater](https://github.com/peavers-warcraft/PeaversUpdater/releases/latest) installs and updates it automatically alongside its parent addon, or download it directly from [CurseForge](https://www.curseforge.com/wow/addons/peaversiconsearchdata).
