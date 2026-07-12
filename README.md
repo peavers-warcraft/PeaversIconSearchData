@@ -1,5 +1,7 @@
 # PeaversIconSearchData
 
+[![AddonSentry](https://api.addonsentry.io/api/public/repos/peavers-warcraft/PeaversIconSearchData/badge.svg)](https://addonsentry.io/dashboard/peavers-warcraft/PeaversIconSearchData)
+
 A data library addon for World of Warcraft that maps item names and search tags to icon fileIDs, updated daily from wago.tools db2 exports.
 
 ## Features
