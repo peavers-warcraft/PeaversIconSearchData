@@ -2,7 +2,7 @@
 ## Title: |cff3abdf7Peavers|rIconSearchData
 ## Notes: Item name to icon data for PeaversIconSearch and others
 ## Author: Peavers
-## Version: 0.0.54
+## Version: 0.0.55
 ## IconTexture: Interface\AddOns\PeaversIconSearchData\src\Media\Icon.tga
 ## Category-enUS: Peavers
 ## X-Website: https://peavers.io
