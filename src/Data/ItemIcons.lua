@@ -1,4 +1,4 @@
--- Auto-generated from wago.tools db2 exports (build 12.0.7.68887). Do not edit by hand.
+-- Auto-generated from wago.tools db2 exports (build 12.0.7.68974). Do not edit by hand.
 -- 82472 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
