@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.0.69214). Do not edit by hand.
--- 83816 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.0.69273). Do not edit by hand.
+-- 83817 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -76201,6 +76201,7 @@ D[#D + 1] = [==[
 1674410:Venomous Hivemother Cord	leather waist belt
 7473004:Venomous Legend's Pennant	cloth back cloak cape
 5501596:Venomous Lurker's Shoulderplates	plate shoulder shoulders spaulders pauldrons
+7759687:Venomous Pyre
 133756:Venomous Silk Cover	cloth back cloak cape
 133743:Venomous Tome	offhand held
 134232:Venomous Totem	trinket
@@ -80010,10 +80011,10 @@ D[#D + 1] = [==[
 429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons
 134953:Warpwood Shield	shield offhand
 2349385:Warring Ancient's Crown	leather head helm helmet
-2351547:Warring Ancient's Mask	leather head helm helmet
-3089535:Warrior Poet's Poniard	dagger weapon]==]
+2351547:Warring Ancient's Mask	leather head helm helmet]==]
 
 D[#D + 1] = [==[
+3089535:Warrior Poet's Poniard	dagger weapon
 132589:Warrior's Boots	mail feet boots
 132602:Warrior's Bracers	mail wrist bracers
 3998572:Warrior's Chestplate	plate chest
