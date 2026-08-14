@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.0.69283). Do not edit by hand.
--- 83817 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.0.69299). Do not edit by hand.
+-- 83820 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -27513,6 +27513,7 @@ D[#D + 1] = [==[
 132416:Fish Gutter	axe 1h weapon
 133486:Fish Stunner	mace 1h weapon
 135703:Fish-Eye Poker	dagger weapon
+8101292:Fisher's Pack	cosmetic back cloak cape
 135637:Fisherman Knife	dagger weapon
 236910:Fisherman's Belt	leather waist belt
 133106:Fisherman's Earwarmer	cloth head helm helmet
@@ -40006,10 +40007,10 @@ D[#D + 1] = [==[
 5771691:K'areshi Phantom's Shoulderpads	leather shoulder shoulders spaulders pauldrons
 133514:K'iru's Presage	mace 1h weapon
 1670852:K'tal Fang Blade	dagger weapon
-457838:K'Vlar Vest	plate chest
-135614:K3 Pachyderm Prevention Device	gun ranged weapon]==]
+457838:K'Vlar Vest	plate chest]==]
 
 D[#D + 1] = [==[
+135614:K3 Pachyderm Prevention Device	gun ranged weapon
 134470:K3 Surgeon's Gloves	cloth hands gloves gauntlets
 644268:Ka'eng, Breath of the Shadow	fist weapon
 644268:Ka'eng, Fang of Shadow	fist weapon
@@ -54054,6 +54055,7 @@ D[#D + 1] = [==[
 1116927:Pufferfish Demolition Legguards	mail legs pants
 1115107:Pufferfish Demolition Legwraps	leather legs pants
 7517186:Pufferspine Spellpierce	dagger weapon
+7958208:Puffin Pack	cosmetic back cloak cape
 132602:Pugilist Bracers	mail wrist bracers
 3113455:Pugilist's Chakram	fist weapon
 326803:Pugius, Fist of Defiance	fist weapon
@@ -60007,11 +60009,11 @@ D[#D + 1] = [==[
 132602:Scaled Leather Bracers	leather wrist bracers
 132958:Scaled Leather Gloves	leather hands gloves gauntlets
 133681:Scaled Leather Headband	leather head helm helmet
-134582:Scaled Leather Leggings	leather legs pants
-135039:Scaled Leather Shoulders	leather shoulder shoulders spaulders pauldrons
-132725:Scaled Leather Tunic	leather chest]==]
+134582:Scaled Leather Leggings	leather legs pants]==]
 
 D[#D + 1] = [==[
+135039:Scaled Leather Shoulders	leather shoulder shoulders spaulders pauldrons
+132725:Scaled Leather Tunic	leather chest
 134667:Scaled Leggings of Qiraji Fury	mail legs pants
 134584:Scaled Legs of Ruination	mail legs pants
 367811:Scaled Marshwalkers	plate feet boots
@@ -61999,6 +62001,7 @@ D[#D + 1] = [==[
 973914:Shards of Nothing	trinket
 3390736:Shardskin Sabatons	mail feet boots
 457863:Shardtooth Gloves	leather hands gloves gauntlets
+8062734:Shark Attack Pack	cosmetic back cloak cape
 135295:Shark Fin Blade	sword 2h weapon
 135703:Shark Stabber	dagger weapon
 1712022:Shark-Hunter Glaive	warglaive weapon
@@ -80008,12 +80011,12 @@ D[#D + 1] = [==[
 364325:Warpwood Bark Vest	leather chest
 132523:Warpwood Binding	mail waist belt
 135493:Warpwood Bow	bow ranged weapon
-429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons
-134953:Warpwood Shield	shield offhand
-2349385:Warring Ancient's Crown	leather head helm helmet
-2351547:Warring Ancient's Mask	leather head helm helmet]==]
+429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons]==]
 
 D[#D + 1] = [==[
+134953:Warpwood Shield	shield offhand
+2349385:Warring Ancient's Crown	leather head helm helmet
+2351547:Warring Ancient's Mask	leather head helm helmet
 3089535:Warrior Poet's Poniard	dagger weapon
 132589:Warrior's Boots	mail feet boots
 132602:Warrior's Bracers	mail wrist bracers
