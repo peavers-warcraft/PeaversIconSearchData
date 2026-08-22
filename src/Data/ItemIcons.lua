@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.0.69382). Do not edit by hand.
--- 83820 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.0.69404). Do not edit by hand.
+-- 83821 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -50886,6 +50886,7 @@ D[#D + 1] = [==[
 4237705:Patroller's Footwear	cosmetic feet boots
 642715:Patroller's Girdle of Endless Spring	plate waist belt
 134583:Patroller's War-Kilt	mail legs pants
+4549193:Pattern: Adorned Fang
 4549193:Pattern: Adrenal Surge Clasp
 4549190:Pattern: Arcanoweave Lining
 4549190:Pattern: Duskthread Lining
@@ -60008,10 +60009,10 @@ D[#D + 1] = [==[
 132537:Scaled Leather Boots	leather feet boots
 132602:Scaled Leather Bracers	leather wrist bracers
 132958:Scaled Leather Gloves	leather hands gloves gauntlets
-133681:Scaled Leather Headband	leather head helm helmet
-134582:Scaled Leather Leggings	leather legs pants]==]
+133681:Scaled Leather Headband	leather head helm helmet]==]
 
 D[#D + 1] = [==[
+134582:Scaled Leather Leggings	leather legs pants
 135039:Scaled Leather Shoulders	leather shoulder shoulders spaulders pauldrons
 132725:Scaled Leather Tunic	leather chest
 134667:Scaled Leggings of Qiraji Fury	mail legs pants
@@ -80010,10 +80011,10 @@ D[#D + 1] = [==[
 1137679:Warpwind Vest	mail chest
 364325:Warpwood Bark Vest	leather chest
 132523:Warpwood Binding	mail waist belt
-135493:Warpwood Bow	bow ranged weapon
-429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons]==]
+135493:Warpwood Bow	bow ranged weapon]==]
 
 D[#D + 1] = [==[
+429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons
 134953:Warpwood Shield	shield offhand
 2349385:Warring Ancient's Crown	leather head helm helmet
 2351547:Warring Ancient's Mask	leather head helm helmet
