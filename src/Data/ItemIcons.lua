@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.0.69814). Do not edit by hand.
--- 83821 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.0.69875). Do not edit by hand.
+-- 83869 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -831,6 +831,15 @@ D[#D + 1] = [==[
 2054853:Akunda's Grounding Girdle	mail waist belt
 2416652:Akunda's Shocksplitter	axe 1h weapon
 135641:Akuno's Blade	dagger weapon
+7751144:Al'Aketh Zealot's Belt	cosmetic waist belt
+7751145:Al'Aketh Zealot's Boots	cosmetic feet boots
+7751146:Al'Aketh Zealot's Cloak	cosmetic back cloak cape
+7751148:Al'Aketh Zealot's Gloves	cosmetic hands gloves gauntlets
+7751149:Al'Aketh Zealot's Helm	cosmetic head helm helmet
+7751150:Al'Aketh Zealot's Leggings	cosmetic legs pants
+7751152:Al'Aketh Zealot's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+7751147:Al'Aketh Zealot's Robe	cosmetic chest robe
+7751147:Al'Aketh Zealot's Vest	cosmetic chest
 613948:Al'Akir's Acrimony	mail wrist bracers
 7036941:Al'dani Attendant's Gauze	cloth wrist bracers
 309659:Al'maiesh, the Cord of Hope	cloth waist belt
@@ -19996,7 +20005,9 @@ D[#D + 1] = [==[
 135008:Dragonhawk Tunic	leather chest
 426497:Dragonheart Bracers	leather wrist bracers
 134982:Dragonheart Flameshield	shield offhand
-372094:Dragonheart Piercer	crossbow ranged weapon
+372094:Dragonheart Piercer	crossbow ranged weapon]==]
+
+D[#D + 1] = [==[
 132962:Dragonhide Gloves	leather hands gloves gauntlets
 133132:Dragonhide Helm	leather head helm helmet
 134599:Dragonhide Legguards	leather legs pants
@@ -20005,9 +20016,7 @@ D[#D + 1] = [==[
 133541:Dragonjaw Mauler	mace 1h weapon
 135008:Dragonkiller Tunic	mail chest
 4095088:Dragonkiln Chestguard	leather chest
-132634:Dragonkin Shirt	mail chest]==]
-
-D[#D + 1] = [==[
+132634:Dragonkin Shirt	mail chest
 463011:Dragonkin Ward	shield offhand
 133518:Dragonmaw	mace 1h weapon
 132496:Dragonmaw Augur's Cinch	cloth waist belt
@@ -39998,7 +40007,9 @@ D[#D + 1] = [==[
 6757483:K'areshi Multi-Tool	dagger weapon
 5771683:K'areshi Phantom's Belt	leather waist belt
 5771686:K'areshi Phantom's Breeze	cloth back cloak cape
-5771685:K'areshi Phantom's Cuffs	leather wrist bracers
+5771685:K'areshi Phantom's Cuffs	leather wrist bracers]==]
+
+D[#D + 1] = [==[
 5771689:K'areshi Phantom's Emptiness	leather head helm helmet
 5771688:K'areshi Phantom's Grips	leather hands gloves gauntlets
 5771690:K'areshi Phantom's Leggings	leather legs pants
@@ -40007,9 +40018,7 @@ D[#D + 1] = [==[
 5771691:K'areshi Phantom's Shoulderpads	leather shoulder shoulders spaulders pauldrons
 133514:K'iru's Presage	mace 1h weapon
 1670852:K'tal Fang Blade	dagger weapon
-457838:K'Vlar Vest	plate chest]==]
-
-D[#D + 1] = [==[
+457838:K'Vlar Vest	plate chest
 135614:K3 Pachyderm Prevention Device	gun ranged weapon
 134470:K3 Surgeon's Gloves	cloth hands gloves gauntlets
 644268:Ka'eng, Breath of the Shadow	fist weapon
@@ -43311,6 +43320,7 @@ D[#D + 1] = [==[
 132524:Lord's Girdle	mail waist belt
 134584:Lord's Legguards	mail legs pants
 135061:Lord's Pauldrons	mail shoulder shoulders spaulders pauldrons
+7713111:Lordaeron Forever	cosmetic tabard
 133742:Lordaeron Medical Guide	offhand held
 3736878:Lordaeron Sentry's Bulwark	shield offhand
 134994:Lordaeron's Resolve	shield offhand
@@ -59999,7 +60009,9 @@ D[#D + 1] = [==[
 132638:Scaled Draenic Vest	mail chest
 132639:Scaled Drakeskin Chestguard	mail chest
 7730298:Scaled Fiend's Warboots	plate feet boots
-133760:Scaled Flame Cloak	cloth back cloak cape
+133760:Scaled Flame Cloak	cloth back cloak cape]==]
+
+D[#D + 1] = [==[
 132955:Scaled Gloves of the Serpent	mail hands gloves gauntlets
 134697:Scaled Greaves of Patience	mail legs pants
 134663:Scaled Greaves of the Marksman	mail legs pants
@@ -60009,9 +60021,7 @@ D[#D + 1] = [==[
 132537:Scaled Leather Boots	leather feet boots
 132602:Scaled Leather Bracers	leather wrist bracers
 132958:Scaled Leather Gloves	leather hands gloves gauntlets
-133681:Scaled Leather Headband	leather head helm helmet]==]
-
-D[#D + 1] = [==[
+133681:Scaled Leather Headband	leather head helm helmet
 134582:Scaled Leather Leggings	leather legs pants
 135039:Scaled Leather Shoulders	leather shoulder shoulders spaulders pauldrons
 132725:Scaled Leather Tunic	leather chest
@@ -62181,6 +62191,34 @@ D[#D + 1] = [==[
 666408:Shellsplitter Greataxe	axe 1h weapon
 457839:Shelter of Rin	leather chest
 132609:Sheltered Aessina Wristguards	mail wrist bracers
+7751144:Shen'dorei Magister's Belt	cosmetic waist belt
+7751145:Shen'dorei Magister's Boots	cosmetic feet boots
+7751146:Shen'dorei Magister's Cloak	cosmetic back cloak cape
+7751148:Shen'dorei Magister's Gloves	cosmetic hands gloves gauntlets
+7751149:Shen'dorei Magister's Helm	cosmetic head helm helmet
+7751150:Shen'dorei Magister's Leggings	cosmetic legs pants
+7751152:Shen'dorei Magister's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+7751147:Shen'dorei Magister's Robe	cosmetic chest robe
+7751147:Shen'dorei Magister's Vest	cosmetic chest
+7751144:Shen'dorei Peacekeeper's Belt	cosmetic waist belt
+7751145:Shen'dorei Peacekeeper's Boots	cosmetic feet boots
+7751146:Shen'dorei Peacekeeper's Cloak	cosmetic back cloak cape
+7751148:Shen'dorei Peacekeeper's Gloves	cosmetic hands gloves gauntlets
+7751149:Shen'dorei Peacekeeper's Helm	cosmetic head helm helmet
+7751150:Shen'dorei Peacekeeper's Leggings	cosmetic legs pants
+7751152:Shen'dorei Peacekeeper's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+7751147:Shen'dorei Peacekeeper's Robe	cosmetic chest robe
+7751147:Shen'dorei Peacekeeper's Vest	cosmetic chest
+7751144:Shen'dorei Skyseer's Belt	cosmetic waist belt
+7751145:Shen'dorei Skyseer's Boots	cosmetic feet boots
+7751146:Shen'dorei Skyseer's Cloak	cosmetic back cloak cape
+7751148:Shen'dorei Skyseer's Gloves	cosmetic hands gloves gauntlets
+7751149:Shen'dorei Skyseer's Helm	cosmetic head helm helmet
+7751150:Shen'dorei Skyseer's Leggings	cosmetic legs pants
+7751152:Shen'dorei Skyseer's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+7751147:Shen'dorei Skyseer's Robe	cosmetic chest robe
+7751147:Shen'dorei Skyseer's Vest	cosmetic chest
+8101155:Shen'dorei Tabard	cosmetic tabard
 135127:Shen'dralar Trident	polearm 2h weapon
 615170:Shen-zin Shell Headguard	plate head helm helmet
 132506:Shepherd's Girdle	leather waist belt
@@ -76953,6 +76991,16 @@ D[#D + 1] = [==[
 6624472:Vestments of the Woodland Raccoon	cosmetic chest
 651732:Vestments of Thundering Skies	cloth chest robe
 5202180:Vesture of the Smoldering Serpent	cloth chest robe
+7711852:Veteran Adventurer's Belt	cosmetic waist belt
+7711853:Veteran Adventurer's Boots	cosmetic feet boots
+7711854:Veteran Adventurer's Bracer	cosmetic wrist bracers
+7711860:Veteran Adventurer's Chestpiece	cosmetic chest
+7711859:Veteran Adventurer's Cloak	cosmetic back cloak cape
+7711861:Veteran Adventurer's Gloves	cosmetic hands gloves gauntlets
+7711862:Veteran Adventurer's Hood	cosmetic head helm helmet
+7711863:Veteran Adventurer's Legguards	cosmetic legs pants
+7711998:Veteran Adventurer's Rucksack	cosmetic back cloak cape
+7711864:Veteran Adventurer's Shoulderpads	cosmetic shoulder shoulders spaulders pauldrons
 132631:Veteran Armor	mail chest
 132543:Veteran Boots	mail feet boots
 132604:Veteran Bracers	mail wrist bracers
@@ -79963,7 +80011,9 @@ D[#D + 1] = [==[
 134588:Warped Leather Pants	leather legs pants
 135009:Warped Leather Vest	leather chest
 132495:Warped-Plate Belt	plate waist belt
-132746:Warped-Plate Breastplate	plate chest
+132746:Warped-Plate Breastplate	plate chest]==]
+
+D[#D + 1] = [==[
 132962:Warped-Plate Gauntlets	plate hands gloves gauntlets
 133071:Warped-Plate Helmet	plate head helm helmet
 134583:Warped-Plate Leggings	plate legs pants
@@ -80011,9 +80061,7 @@ D[#D + 1] = [==[
 1137679:Warpwind Vest	mail chest
 364325:Warpwood Bark Vest	leather chest
 132523:Warpwood Binding	mail waist belt
-135493:Warpwood Bow	bow ranged weapon]==]
-
-D[#D + 1] = [==[
+135493:Warpwood Bow	bow ranged weapon
 429185:Warpwood Leaf Mantle	cloth shoulder shoulders spaulders pauldrons
 134953:Warpwood Shield	shield offhand
 2349385:Warring Ancient's Crown	leather head helm helmet
