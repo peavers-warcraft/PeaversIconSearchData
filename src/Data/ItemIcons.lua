@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.0.69933). Do not edit by hand.
--- 83869 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.5.70391). Do not edit by hand.
+-- 84032 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -34,7 +34,7 @@ D[#D + 1] = [==[
 944152:"Super Sterilized" Blastguard Britches	leather legs pants
 944245:"Super Sterilized" Blastguard Leggings	mail legs pants
 947555:"Super Sterilized" Blastguard Legplates	plate legs pants
-940207:"Super Sterlized" Blastguard Legwraps	cloth legs pants
+940207:"Super Sterilized" Blastguard Legwraps	cloth legs pants
 457702:"Swamp Eye" Belt	leather waist belt
 457702:"Swamp Eye" Chain Sash	mail waist belt
 3564352:"The Brokers Angle'r"
@@ -346,6 +346,7 @@ D[#D + 1] = [==[
 457923:Abductor's Coverings	plate head helm helmet
 132959:Abercrombie's Gloves	cloth hands gloves gauntlets
 660751:Aberrant Chestguard of Torment	mail chest
+7554478:Aberrant Commander's Gauntlets	mail hands gloves gauntlets
 5948197:Aberrant Spellforge	trinket
 132649:Aberrant Vest	leather chest
 461825:Aberration's Leggings	leather legs pants
@@ -1062,6 +1063,7 @@ D[#D + 1] = [==[
 236976:Amani Armguards	plate wrist bracers
 1698636:Amani Berserker's Chopper	axe 1h weapon
 135145:Amani Divining Staff	staff 2h weapon
+7893790:Amani Effigy	cosmetic back cloak cape
 7389536:Amani Fangcaller's Spear	polearm 2h weapon
 7389582:Amani Fangstitch Quiver	cosmetic back cloak cape
 6989931:Amani Flamebinder's Staff	staff 2h weapon
@@ -3751,6 +3753,20 @@ D[#D + 1] = [==[
 132945:Bailiff's Gloves	plate hands gloves gauntlets
 1934753:Bainbridge's Blackjack	mace 1h weapon
 463831:Bait-Stained Drape	cloth back cloak cape
+8261365:Baker's Amethyst Bulwark	shield offhand
+8286069:Baker's Amethyst Tray	cosmetic back cloak cape
+8261365:Baker's Citrine Bulwark	shield offhand
+8286069:Baker's Citrine Tray	cosmetic back cloak cape
+8261365:Baker's Emerald Bulwark	shield offhand
+8286069:Baker's Emerald Tray	cosmetic back cloak cape
+8261112:Baker's Enchanted Cookbook	staff 2h weapon
+8261112:Baker's Fiery Cookbook	staff 2h weapon
+8261112:Baker's Frosty Cookbook	staff 2h weapon
+8261365:Baker's Morganite Bulwark	shield offhand
+8286069:Baker's Morganite Tray	cosmetic back cloak cape
+8261112:Baker's Mysterious Cookbook	staff 2h weapon
+8261365:Baker's Sapphire Bulwark	shield offhand
+8286069:Baker's Sapphire Tray	cosmetic back cloak cape
 236895:Bal'lal Belt	leather waist belt
 236895:Bal'lal Waistguard	mail waist belt
 975498:Bal'ra's Compound Bow	bow ranged weapon
@@ -3890,6 +3906,7 @@ D[#D + 1] = [==[
 804961:Band of the Scaled Tyrant	finger ring
 7137568:Band of the Shattered Soul	finger ring
 1022194:Band of the Stalwart Stanchion	finger ring
+8268560:Band of the Swarmcaller	finger ring
 132611:Band of the Swift Paw	leather wrist bracers
 133399:Band of the Traitor King	finger ring
 1408436:Band of the Triumvirate	finger ring
@@ -6990,6 +7007,7 @@ D[#D + 1] = [==[
 940659:Bloodthorn Hood	leather head helm helmet
 940660:Bloodthorn Legguards	leather legs pants
 1006305:Bloodthorn Spaulders	leather shoulder shoulders spaulders pauldrons
+7871829:Bloodtide Hauberk	mail chest
 132950:Bloodtinged Gloves	cloth hands gloves gauntlets
 133130:Bloodtinged Hat	cloth head helm helmet
 134608:Bloodtinged Kilt	cloth legs pants
@@ -7141,6 +7159,7 @@ D[#D + 1] = [==[
 135023:Blue Martial Shirt	shirt
 7951594:Blue Mogu Mask	cosmetic head helm helmet
 135017:Blue Overalls	cloth chest robe
+8267112:Blue Raspberry Lollibop	mace 2h weapon
 133023:Blue Retinal Armor	cosmetic head helm helmet
 8017453:Blue Sha Mask	cosmetic head helm helmet
 135467:Blue Sparkler	offhand held
@@ -9726,7 +9745,6 @@ D[#D + 1] = [==[
 467767:Captain Hadan's Pauldrons	plate shoulder shoulders spaulders pauldrons
 133117:Captain Krosh's Crash Helmet	leather head helm helmet
 132510:Captain Nials' Belt	plate waist belt
-133148:Captain Noteo's Unused Eye Patch	cosmetic head helm helmet
 135145:Captain Rackmore's Tiller	wand weapon
 134956:Captain Rackmore's Wheel	shield offhand
 304813:Captain Rogers' Polite Knocking Stick	mace 2h weapon
@@ -10756,6 +10774,7 @@ D[#D + 1] = [==[
 5644279:Chen Stormstout's Keg	cloth back cloak cape
 615165:Cheng's Irrepressible Girdle	plate waist belt
 2909759:Cherished Empress's Leggings	mail legs pants
+8267112:Cherry Lollibop	mace 2h weapon
 969321:Chest of Heaving Bellows	mail chest
 132632:Chest of the Corrupted Conqueror
 132632:Chest of the Corrupted Protector
@@ -10964,6 +10983,7 @@ D[#D + 1] = [==[
 427630:Chestplate of Viridian Renewal	plate chest
 4962068:Chestroots of the Autumn Blaze	leather chest
 609748:Chestwrap of Arcing Flame	leather chest
+7678398:Chestwrap of Palpable Terror	leather chest
 612388:Chestwrap of the Regal Lord	leather chest
 4510278:Chestwrap of the Waking Fist	leather chest
 973892:Chestwrap of Violent Upheaval	leather chest
@@ -13028,6 +13048,7 @@ D[#D + 1] = [==[
 4200096:Corroded Greatsword	sword 2h weapon
 132399:Corroded Hacker	axe 1h weapon
 457926:Corroded Helmet	plate head helm helmet
+7515797:Corroded Hulk's Skullcap	plate head helm helmet
 133476:Corroded Mace	mace 1h weapon
 132627:Corroded Mail Armor	mail chest
 132498:Corroded Mail Belt	mail waist belt
@@ -13496,6 +13517,7 @@ D[#D + 1] = [==[
 237435:Cosmos	offhand held
 132721:Cosmos Vestments	leather chest robe
 1605813:Cosmos-Culling Legplates	plate legs pants
+8267112:Cotton Candy Lollibop	mace 2h weapon
 443334:Cougar Pelt Boots	leather feet boots
 132609:Cougar Pelt Wristwraps	leather wrist bracers
 430973:Coulton's Crushers	mail hands gloves gauntlets
@@ -15811,7 +15833,6 @@ D[#D + 1] = [==[
 960147:Crystalhide Grips	leather hands gloves gauntlets
 132943:Crystalhide Handwraps	mail hands gloves gauntlets
 960149:Crystalhide Legguards	leather legs pants
-4186833:Crystalized Bulwark	shield offhand
 4176680:Crystallic Cryptic Mask	leather head helm helmet
 4181972:Crystallic Enigmatic Epaulets	mail shoulder shoulders spaulders pauldrons
 4177388:Crystallic Numerus Crown	plate head helm helmet
@@ -15840,6 +15861,7 @@ D[#D + 1] = [==[
 5178364:Crystalline Tender's Vest	leather chest
 5178359:Crystalline Tender's Wristbands	leather wrist bracers
 133771:Crystalline Threaded Cape	cloth back cloak cape
+4186833:Crystallized Bulwark	shield offhand
 458245:Crystallized Drop of Eternity
 642699:Crystallized Droplet	finger ring
 135469:Crystallized Ebony Wand	wand weapon
@@ -19983,7 +20005,9 @@ D[#D + 1] = [==[
 4624639:Dragonfire Bomb Dispenser	trinket
 519399:Dragonfire Gloves	mail hands gloves gauntlets
 528948:Dragonfire Orb	offhand held
-132463:Dragonflayer Hatchet	axe 1h weapon
+132463:Dragonflayer Hatchet	axe 1h weapon]==]
+
+D[#D + 1] = [==[
 132610:Dragonflayer Seer's Bindings	mail wrist bracers
 535824:Dragonflayer Vest	mail chest
 135527:Dragonflayer's Heartpiercer	bow ranged weapon
@@ -20005,9 +20029,7 @@ D[#D + 1] = [==[
 135008:Dragonhawk Tunic	leather chest
 426497:Dragonheart Bracers	leather wrist bracers
 134982:Dragonheart Flameshield	shield offhand
-372094:Dragonheart Piercer	crossbow ranged weapon]==]
-
-D[#D + 1] = [==[
+372094:Dragonheart Piercer	crossbow ranged weapon
 132962:Dragonhide Gloves	leather hands gloves gauntlets
 133132:Dragonhide Helm	leather head helm helmet
 134599:Dragonhide Legguards	leather legs pants
@@ -21787,6 +21809,7 @@ D[#D + 1] = [==[
 135351:Duskbringer	sword 2h weapon
 801004:Duskfall Daggers	dagger weapon
 135055:Duskhallow Mantle	cloth shoulder shoulders spaulders pauldrons
+7876609:Duskhallow Vanguard Greaves	plate legs pants
 340524:Duskhaven Boots	cloth feet boots
 321417:Duskhaven Breeches	cloth legs pants
 132687:Duskhaven Dress	cloth chest robe
@@ -21794,6 +21817,7 @@ D[#D + 1] = [==[
 132574:Duskhaven Slippers	cloth feet boots
 133153:Duskhaven Top Hat	cloth head helm helmet
 623705:Dusklight Drape	cloth back cloak cape
+7651189:Duskmantle Spiteglass	offhand held
 2200994:Duskrune Glaive	sword 1h weapon
 7644503:Duskrunner's Flamebrand	sword 2h weapon
 7644570:Duskrunner's Painted Gauntlets	cosmetic hands gloves gauntlets
@@ -22548,6 +22572,7 @@ D[#D + 1] = [==[
 133763:Eerie Runeblade Polisher	cloth back cloak cape
 134249:Eerie Stable Lantern	offhand held
 331436:Efficiency Spell Mace	mace 1h weapon
+7893792:Effigy of Corrosion	cosmetic back cloak cape
 4323899:Effigy of Temptation's Call	offhand held
 4323899:Effigy of the Alluring Call	offhand held
 132651:Efflorescent Robe	cloth chest robe
@@ -22914,6 +22939,20 @@ D[#D + 1] = [==[
 412511:Embercrusher Grips	plate hands gloves gauntlets
 6994575:Emberdawn Defender	sword 2h weapon
 4907020:Emberdusk's Embrace	cloth chest
+8261021:Embered Bell-Crook	staff 2h weapon
+8261021:Embered Bell-Scythe	polearm 2h weapon
+8263317:Embered Belt	cosmetic waist belt
+8263309:Embered Boots	cosmetic feet boots
+8263311:Embered Cloak	cosmetic back cloak cape
+8246091:Embered Frost Fetish	offhand held
+8246091:Embered Frost Scepter	mace 1h weapon
+8263313:Embered Gloves	cosmetic hands gloves gauntlets
+8263312:Embered Hauberk	cosmetic chest
+8263314:Embered Helm	cosmetic head helm helmet
+8246169:Embered Hide Piercer	bow ranged weapon
+8263315:Embered Leggings	cosmetic legs pants
+8263316:Embered Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+8263316:Embered Reversed Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
 521216:Embereye Belt	cloth waist belt
 412504:Emberfire Belt	cloth waist belt
 412506:Emberfire Boots	cloth feet boots
@@ -22972,6 +23011,7 @@ D[#D + 1] = [==[
 134656:Emberstone Plate	plate legs pants
 135150:Emberstone Staff	staff 2h weapon
 5906231:Emberswirl Bulwark	shield offhand
+7893615:Emberveil Ritual Knife	dagger weapon
 134669:Emberweave Leggings	mail legs pants
 6118878:Emberwind Belt	cloth waist belt
 6118880:Emberwind Bindings	cloth wrist bracers
@@ -24216,6 +24256,7 @@ D[#D + 1] = [==[
 3514672:Eventide Wristwraps	mail wrist bracers
 7287095:Ever-Devouring Shoulderguards	leather shoulder shoulders spaulders pauldrons
 4734381:Ever-Repeating Rifle	gun ranged weapon
+7949057:Everbloom Forest Floor
 625437:Everbright Bracers	plate wrist bracers
 625438:Everbright Breastplate	plate chest
 625439:Everbright Gauntlets	plate hands gloves gauntlets
@@ -24420,6 +24461,12 @@ D[#D + 1] = [==[
 6050433:Executioner's Bladed Waistband	plate waist belt
 132418:Executioner's Cleaver	axe 2h weapon
 135329:Executioner's Sword	sword 2h weapon
+8129863:Executive Chef's Belt	cosmetic waist belt
+8129864:Executive Chef's Boots	cosmetic feet boots
+8129860:Executive Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Executive Chef's Hat	cosmetic head helm helmet
+8129859:Executive Chef's Jacket	cosmetic chest
+8129862:Executive Chef's Pants	cosmetic legs pants
 135139:Executor Staff	staff 2h weapon
 132630:Executor's Breastplate	plate chest
 133766:Executor's Cape	cloth back cloak cape
@@ -25215,6 +25262,7 @@ D[#D + 1] = [==[
 1117778:Fanged Green Glaive	warglaive weapon
 7705649:Fanged Raiment of the Ophidian Oracle	mail chest robe
 1117778:Fanged Red Glaive	warglaive weapon
+7672957:Fanged Riftrazor	warglaive weapon
 1549275:Fanged Slayer's Chestguard	leather chest
 1611384:Fanged Slayer's Chestguard	leather chest
 1611381:Fanged Slayer's Cord	leather waist belt
@@ -25244,6 +25292,7 @@ D[#D + 1] = [==[
 7871830:Fangsmasher Gauntlets	mail hands gloves gauntlets
 7874490:Fangsmasher Grips	cloth hands gloves gauntlets
 7865322:Fangsmasher Handwraps	leather hands gloves gauntlets
+7700598:Fangwarden's Shardspine Bow	bow ranged weapon
 7446693:Fantastic Finery of the Grim Jest	leather chest
 135161:Faol's Signet of Cleansing	offhand held
 133072:Far Seer's Helm	mail head helm helmet
@@ -26265,6 +26314,7 @@ D[#D + 1] = [==[
 134955:Feral Buckler	shield offhand
 133770:Feral Cloak	cloth back cloak cape
 132492:Feral Cord	leather waist belt
+7761089:Feral Gloombranch	staff 2h weapon
 132939:Feral Gloves	leather hands gloves gauntlets
 132719:Feral Harness	leather chest
 134586:Feral Leggings	leather legs pants
@@ -26711,6 +26761,10 @@ D[#D + 1] = [==[
 4272433:Fetid Bouquet	offhand held
 1125590:Fetid Gutcover Apron	cloth chest robe
 2021682:Fetid Horror's Tanglecloak	cloth back cloak cape
+7876612:Fetid Reliquary Greaves	plate feet boots
+7871826:Fetid Reliquary Sabatons	mail feet boots
+7874486:Fetid Reliquary Slippers	cloth feet boots
+7878580:Fetid Reliquary Treads	leather feet boots
 973922:Fetid Salivation	trinket
 132973:Fetid Stranglers	leather hands gloves gauntlets
 7232473:Fetid Vilecrown	leather head helm helmet
@@ -29129,6 +29183,20 @@ D[#D + 1] = [==[
 4928768:Frost Marshal's Carbine	gun ranged weapon
 135038:Frost Metal Pauldrons	mail shoulder shoulders spaulders pauldrons
 315122:Frost Needle	sword 1h weapon
+8261021:Frost Revenant's Bell-Crook	staff 2h weapon
+8261021:Frost Revenant's Bell-Scythe	polearm 2h weapon
+8263317:Frost Revenant's Belt	cosmetic waist belt
+8263309:Frost Revenant's Boots	cosmetic feet boots
+8263311:Frost Revenant's Cloak	cosmetic back cloak cape
+8246091:Frost Revenant's Frost Fetish	offhand held
+8246091:Frost Revenant's Frost Scepter	mace 1h weapon
+8263313:Frost Revenant's Gloves	cosmetic hands gloves gauntlets
+8263312:Frost Revenant's Hauberk	cosmetic chest
+8263314:Frost Revenant's Helm	cosmetic head helm helmet
+8246169:Frost Revenant's Hide Piercer	bow ranged weapon
+8263315:Frost Revenant's Leggings	cosmetic legs pants
+8263316:Frost Revenant's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+8263316:Frost Revenant's Reversed Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
 133163:Frost Runed Headdress	cloth head helm helmet
 5175541:Frost Sapling's Adornment	cloth back cloak cape
 135275:Frost Tiger Blade	sword 2h weapon
@@ -30258,7 +30326,7 @@ D[#D + 1] = [==[
 7871829:Galerider's Byrnie	mail chest
 7871830:Galerider's Chain Clasps	mail hands gloves gauntlets
 7871823:Galerider's Chausses	mail legs pants
-7871826:Galerider's Chausses	mail feet boots
+7871826:Galerider's Footguards	mail feet boots
 7871822:Galerider's Gaze	mail head helm helmet
 7871825:Galerider's Mail Skirt	mail waist belt
 7871824:Galerider's Mantle	mail shoulder shoulders spaulders pauldrons
@@ -31025,7 +31093,8 @@ D[#D + 1] = [==[
 647806:Ghost Fox Vest	leather chest
 647797:Ghost Fox Waistband	leather waist belt
 590807:Ghost Fox Wristwraps	leather wrist bracers
-644269:Ghost Gear	cosmetic
+8093508:Ghost Gear	cosmetic
+8093508:Ghost Goggles	cosmetic head helm helmet
 643082:Ghost Iron Staff	staff 2h weapon
 625438:Ghost Reaver's Breastplate	plate chest
 625439:Ghost Reaver's Gauntlets	plate hands gloves gauntlets
@@ -32333,11 +32402,9 @@ D[#D + 1] = [==[
 134336:Glowing Black Orb	offhand held
 132740:Glowing Breastplate of Truth	plate chest
 135166:Glowing Brightwood Staff	staff 2h weapon
-7150731:Glowing Dirk of the Ice Queen	dagger weapon
 134335:Glowing Eye of Mordresh	neck necklace
 801133:Glowing Felskull Belt	mail waist belt
 1112947:Glowing Firestone	neck necklace
-7139902:Glowing Great Axe of the Frostwolf	axe 2h weapon
 132602:Glowing Leather Bracers	leather wrist bracers
 132656:Glowing Lizardscale Cloak	cloth back cloak cape
 132618:Glowing Magical Bracelets	cloth wrist bracers
@@ -32350,8 +32417,6 @@ D[#D + 1] = [==[
 134305:Glowing Thresher Cape	cloth back cloak cape
 377270:Glowing Twilight Scale	trinket
 134337:Glowing Voodoo Orb	offhand held
-7152322:Glowing Wand of the Ice Queen	wand weapon
-7148890:Glowing Warglaives of the North	warglaive weapon
 604460:Glowing Wind Bracers	cloth wrist bracers
 524482:Glowing Wing Bracers	leather wrist bracers
 535420:Glowing Wings of Hope	plate head helm helmet
@@ -33194,10 +33259,12 @@ D[#D + 1] = [==[
 6789241:Grandmaster's White Stave	staff 2h weapon
 132963:Granite Grips	plate hands gloves gauntlets
 133545:Granite Maul	mace 2h weapon
+7876615:Granite Ritual Cuirass	plate chest
 4095088:Graniteclaw's Vest	leather chest
 133053:Granny's Mallet	mace 1h weapon
 1337422:Granny's Old Hat	cosmetic head helm helmet
 2032177:Granyth's Enduring Scale	trinket
+8267112:Grape Lollibop	mace 2h weapon
 973898:Grapeshot Hood	leather head helm helmet
 304104:Grapeshotter of Khaz Modan	gun ranged weapon
 132506:Grappler's Belt	leather waist belt
@@ -33998,6 +34065,12 @@ D[#D + 1] = [==[
 348567:Griftah's Authentic Troll Shoes	cosmetic feet boots
 443321:Grik'nir's Chilly Belt	cloth waist belt
 443345:Grik'nir's Warming Bands	mail wrist bracers
+8129863:Grill Chef's Belt	cosmetic waist belt
+8129864:Grill Chef's Boots	cosmetic feet boots
+8129860:Grill Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Grill Chef's Hat	cosmetic head helm helmet
+8129859:Grill Chef's Jacket	cosmetic chest
+8129862:Grill Chef's Pants	cosmetic legs pants
 132539:Grim Boots	leather feet boots
 133733:Grim Codex	trinket
 631503:Grim Eclipse	trinket
@@ -35686,6 +35759,12 @@ D[#D + 1] = [==[
 7266384:Hazy Penumbral Shoulderpads	cloth shoulder shoulders spaulders pauldrons
 7266373:Hazy Penumbral Treads	cloth feet boots
 1048298:Hazy Voidstone Band	finger ring
+8129863:Head Chef's Belt	cosmetic waist belt
+8129864:Head Chef's Boots	cosmetic feet boots
+8129860:Head Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Head Chef's Hat	cosmetic head helm helmet
+8129859:Head Chef's Jacket	cosmetic chest
+8129862:Head Chef's Pants	cosmetic legs pants
 132947:Head Inspector's Gloves	plate hands gloves gauntlets
 367811:Head Kickers	plate feet boots
 1044817:Head-Lopper Skullscythe	staff 2h weapon
@@ -36697,8 +36776,11 @@ D[#D + 1] = [==[
 133512:Hex-Caster Gavel	mace 1h weapon
 7523136:Hex-Horn Buckler	shield offhand
 133106:Hex-Linked Stronghelm	mail head helm helmet
+7792711:Hexbearer's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
 135632:Hexbelcher Rifle	gun ranged weapon
+7792710:Hexbinder's Spaulders	cosmetic shoulder shoulders spaulders pauldrons
 7082303:Hexbreaker Chain Hauberk	mail chest
+7792712:Hexdrinker's Shoulders	cosmetic shoulder shoulders spaulders pauldrons
 132606:Hexed Bracers	mail wrist bracers
 7517842:Hexed Tomb Brazier
 5870615:Hexflame Coven's All-Seeing Eye	cloth head helm helmet
@@ -38015,6 +38097,11 @@ D[#D + 1] = [==[
 135855:Ice Threaded Arrow
 135844:Ice Threaded Bullet
 315280:Ice Time	cloth shoulder shoulders spaulders pauldrons
+8261021:Ice Walker's Bell-Crook	staff 2h weapon
+8261021:Ice Walker's Bell-Scythe	polearm 2h weapon
+8246091:Ice Walker's Frost Fetish	offhand held
+8246091:Ice Walker's Frost Scepter	mace 1h weapon
+8246169:Ice Walker's Hide Piercer	bow ranged weapon
 132505:Ice-Bound Plate Belt	plate waist belt
 132589:Ice-Bound Plate Boots	plate feet boots
 132602:Ice-Bound Plate Bracers	plate wrist bracers
@@ -38045,6 +38132,15 @@ D[#D + 1] = [==[
 132464:Ice-Splintering Axe	axe 2h weapon
 341559:Ice-Steeped Sandals	cloth feet boots
 133797:Ice-Threaded Conch
+8263317:Ice-Walker's Belt	cosmetic waist belt
+8263309:Ice-Walker's Boots	cosmetic feet boots
+8263311:Ice-Walker's Cloak	cosmetic back cloak cape
+8263313:Ice-Walker's Gloves	cosmetic hands gloves gauntlets
+8263312:Ice-Walker's Hauberk	cosmetic chest
+8263314:Ice-Walker's Helm	cosmetic head helm helmet
+8263315:Ice-Walker's Leggings	cosmetic legs pants
+8263316:Ice-Walker's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+8263316:Ice-Walker's Reversed Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
 132606:Icebane Bracers	plate wrist bracers
 132633:Icebane Breastplate	plate chest
 132633:Icebane Chestguard	plate chest
@@ -39911,7 +40007,9 @@ D[#D + 1] = [==[
 3447986:Judicious Aspirant's Gauntlets	plate hands gloves gauntlets
 3447986:Judicious Aspirant's Gloves	plate hands gloves gauntlets
 3447987:Judicious Aspirant's Helm	plate head helm helmet
-3447988:Judicious Aspirant's Legguards	plate legs pants
+3447988:Judicious Aspirant's Legguards	plate legs pants]==]
+
+D[#D + 1] = [==[
 3447982:Judicious Aspirant's Warboots	plate feet boots
 3447983:Judicious Aspirant's Wristwraps	plate wrist bracers
 135150:Judkins' Staff	staff 2h weapon
@@ -40007,9 +40105,7 @@ D[#D + 1] = [==[
 6757483:K'areshi Multi-Tool	dagger weapon
 5771683:K'areshi Phantom's Belt	leather waist belt
 5771686:K'areshi Phantom's Breeze	cloth back cloak cape
-5771685:K'areshi Phantom's Cuffs	leather wrist bracers]==]
-
-D[#D + 1] = [==[
+5771685:K'areshi Phantom's Cuffs	leather wrist bracers
 5771689:K'areshi Phantom's Emptiness	leather head helm helmet
 5771688:K'areshi Phantom's Grips	leather hands gloves gauntlets
 5771690:K'areshi Phantom's Leggings	leather legs pants
@@ -40496,6 +40592,7 @@ D[#D + 1] = [==[
 4267125:Kite of the Holy Avenger	shield offhand
 4267125:Kite of the Light Avenger	shield offhand
 134952:Kite Shield	shield offhand
+7955915:Kith'ix's Seal
 961490:Kitsy's Knickers	cloth legs pants
 133773:Kizmet's Wrap	cloth back cloak cape
 653591:Klatith, Fangs of the Swarm	bow ranged weapon
@@ -42136,6 +42233,7 @@ D[#D + 1] = [==[
 661379:Lei Shen's Grounded Carapace	plate chest
 797889:Lei Shen's Orb of Command	offhand held
 132563:Leiah's Footpads	cloth feet boots
+8267112:Lemon Lollibop	mace 2h weapon
 132541:Lendra's Cult-Stompers	mail feet boots
 443356:Lent Hands	leather hands gloves gauntlets
 132751:Leonine Breastplate	plate chest
@@ -42160,6 +42258,7 @@ D[#D + 1] = [==[
 2280673:Lever Stabilizing Wristwraps	cloth wrist bracers
 132600:Leverage Bracers	leather wrist bracers
 132600:Leverage Wriststraps	mail wrist bracers
+7871827:Leviathan Bracerbands	mail wrist bracers
 236999:Leviathan Egg
 237434:Leviathan Fueling Manual	offhand held
 4326132:Leviathan Lure	mace 2h weapon
@@ -42306,6 +42405,7 @@ D[#D + 1] = [==[
 4191867:Libram of Azure Light	offhand held
 4191867:Libram of Righteous Light	offhand held
 4280630:Libram of the Abyssal Cult	offhand held
+4191866:Libram of the Matriarch
 4280630:Libram of the Unnamed Cult	offhand held
 134916:Libram of Vindication	trinket
 133753:Librarian's Cloak	cloth back cloak cape
@@ -42531,6 +42631,7 @@ D[#D + 1] = [==[
 132559:Light-Woven Slippers	cloth feet boots
 134555:Lightbane Focus	offhand held
 132963:Lightbearer's Gauntlets	plate hands gloves gauntlets
+8268569:Lightbearer's Shield Fragment	trinket
 961489:Lightbinder Cover	cloth head helm helmet
 961487:Lightbinder Girdle	cloth waist belt
 961488:Lightbinder Gloves	cloth hands gloves gauntlets
@@ -43094,6 +43195,9 @@ D[#D + 1] = [==[
 1575409:Loa-Shaper's Mantle	cloth shoulder shoulders spaulders pauldrons
 1575405:Loa-Shaper's Robe	cloth chest robe
 1575403:Loa-Shaper's Sandals	cloth feet boots
+8393518:Loa-Touched Deltoid	cosmetic shoulder shoulders spaulders pauldrons
+8393508:Loa-Touched Spine	cosmetic back cloak cape
+8393517:Loa-Touched Visage	cosmetic head helm helmet
 3565978:Load-Bearing Belt	mail waist belt
 132516:Load-Bearing Girdle	plate waist belt
 132590:Loam-Stained Greaves	plate feet boots
@@ -43477,6 +43581,7 @@ D[#D + 1] = [==[
 6161325:Loyalist's Holdout Hood	mail head helm helmet
 135931:Loyalty to the Matriarch
 429174:Loyalty-Seeker Bracers	mail wrist bracers
+7350841:Lu'selama, Light's Justice	sword 2h weapon
 7454937:Lucent Hawkstrider
 132605:Lucid Dream Bracers	leather wrist bracers
 4190918:Lucid Dreamer's Guide	offhand held
@@ -49872,9 +49977,13 @@ D[#D + 1] = [==[
 132722:Omenai Vest	leather chest
 1769010:Ominous Chromatic Essence	trinket
 135639:Ominous Dagger	dagger weapon
+7150731:Ominous Dirk of the Ice Queen	dagger weapon
+7139902:Ominous Edge of the Frostwolf	axe 2h weapon
+7148890:Ominous Iceglaives of the North	warglaive weapon
 896695:Ominous Mogu Greatboots	plate feet boots
 132859:Ominous Pile of Snow
 5268642:Ominous Tome	offhand held
+7152322:Ominous Wand of the Ice Queen	wand weapon
 7636676:Omission of Light	finger ring
 132539:Omnicast Boots	cloth feet boots
 134394:Omnipurpose Logic Board
@@ -50000,6 +50109,7 @@ D[#D + 1] = [==[
 5246698:Orange Brewfest Bulwark	shield offhand
 133023:Orange Cranial Cannon	cosmetic head helm helmet
 133023:Orange Holo-Gogs	cosmetic head helm helmet
+8267112:Orange Lollibop	mace 2h weapon
 135027:Orange Mageweave Shirt	shirt
 135027:Orange Martial Shirt	shirt
 4279081:Orange-Sleeved Shirt	shirt
@@ -50840,6 +50950,12 @@ D[#D + 1] = [==[
 588365:Passionsilk Vestments	cloth chest robe
 588365:Passionsilk Vests	cloth chest
 461148:Passive Resistor Spaulders	leather shoulder shoulders spaulders pauldrons
+8129863:Pastry Chef's Belt	cosmetic waist belt
+8129864:Pastry Chef's Boots	cosmetic feet boots
+8129860:Pastry Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Pastry Chef's Hat	cosmetic head helm helmet
+8129859:Pastry Chef's Jacket	cosmetic chest
+8129862:Pastry Chef's Pants	cosmetic legs pants
 133768:Patched Cape	cloth back cloak cape
 133762:Patched Cloak	cloth back cloak cape
 5847575:Patched Harvest Golem's Belt	cosmetic waist belt
@@ -58534,6 +58650,7 @@ D[#D + 1] = [==[
 134582:Runic Leather Pants	leather legs pants
 135046:Runic Leather Shoulders	leather shoulder shoulders spaulders pauldrons
 1100026:Runic Magnaron Tooth	dagger weapon
+7674304:Runic Moonbrand	axe 1h weapon
 132582:Runic Plate Boots	plate feet boots
 133071:Runic Plate Helm	plate head helm helmet
 134584:Runic Plate Leggings	plate legs pants
@@ -59058,6 +59175,7 @@ D[#D + 1] = [==[
 237453:Sacrosanct Protector	shield offhand
 801000:Sacrosanct Scepter	mace 1h weapon
 306137:Sacrosanct Sword	sword 1h weapon
+7651212:Sacrosanct Thirstspire	polearm 2h weapon
 236951:Sacrosanct Vambraces	plate wrist bracers
 133065:Sacrosanct Warmaul	mace 2h weapon
 946906:Sadana's Grisly Visage	offhand held
@@ -59246,6 +59364,7 @@ D[#D + 1] = [==[
 351066:Sanctified Frost Witch's Spaulders	mail shoulder shoulders spaulders pauldrons
 351061:Sanctified Frost Witch's Tunic	mail chest
 351064:Sanctified Frost Witch's War-Kilt	mail legs pants
+7490210:Sanctified Knight's Phoenixblade	sword 1h weapon
 340339:Sanctified Lasherweave Cover	leather head helm helmet
 340337:Sanctified Lasherweave Gauntlets	leather hands gloves gauntlets
 340337:Sanctified Lasherweave Gloves	leather hands gloves gauntlets
@@ -59719,6 +59838,12 @@ D[#D + 1] = [==[
 135645:Satyr's Lash	dagger weapon
 135145:Satyr's Rod	offhand held
 132513:Satyrmane Sash	cloth waist belt
+8129863:Sauce Chef's Belt	cosmetic waist belt
+8129864:Sauce Chef's Boots	cosmetic feet boots
+8129860:Sauce Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Sauce Chef's Hat	cosmetic head helm helmet
+8129859:Sauce Chef's Jacket	cosmetic chest
+8129862:Sauce Chef's Pants	cosmetic legs pants
 135290:Saur-Singer Spellblade	sword 1h weapon
 132954:Saurboz's Handwraps	mail hands gloves gauntlets
 134588:Saurboz's Leggings	cloth legs pants
@@ -59884,7 +60009,9 @@ D[#D + 1] = [==[
 133106:Savage Gladiator's Ornamented Headcover	plate head helm helmet
 134703:Savage Gladiator's Ornamented Legplates	plate legs pants
 135087:Savage Gladiator's Ornamented Spaulders	plate shoulder shoulders spaulders pauldrons
-237489:Savage Gladiator's Piercing Touch	wand weapon
+237489:Savage Gladiator's Piercing Touch	wand weapon]==]
+
+D[#D + 1] = [==[
 237495:Savage Gladiator's Pike	polearm 2h weapon
 132757:Savage Gladiator's Plate Chestpiece	plate chest
 132985:Savage Gladiator's Plate Gauntlets	plate hands gloves gauntlets
@@ -60009,9 +60136,7 @@ D[#D + 1] = [==[
 132638:Scaled Draenic Vest	mail chest
 132639:Scaled Drakeskin Chestguard	mail chest
 7730298:Scaled Fiend's Warboots	plate feet boots
-133760:Scaled Flame Cloak	cloth back cloak cape]==]
-
-D[#D + 1] = [==[
+133760:Scaled Flame Cloak	cloth back cloak cape
 132955:Scaled Gloves of the Serpent	mail hands gloves gauntlets
 134697:Scaled Greaves of Patience	mail legs pants
 134663:Scaled Greaves of the Marksman	mail legs pants
@@ -61510,6 +61635,7 @@ D[#D + 1] = [==[
 132551:Shadesteel Sabots	plate feet boots
 1125583:Shadewalker Footwraps	cloth feet boots
 3582638:Shadewarped Sash	cloth waist belt
+8268561:Shadeweaver's Hearthstone
 3461503:Shadeweaver's Spire	staff 2h weapon
 133769:Shadewood Cloak	cloth back cloak cape
 132939:Shadewrap Gloves	leather hands gloves gauntlets
@@ -63082,6 +63208,7 @@ D[#D + 1] = [==[
 896910:Sigil of Rampage	trinket
 135268:Sigil of Shaffar	neck necklace
 7137502:Sigil of the Cosmic Hunt	trinket
+8268562:Sigil of the Impending Eclipse	trinket
 7431122:Sigil of the Restless Heart	offhand held
 5890651:Sigil of Violet Rebirth	cloth waist belt
 442737:Sigil of Warding	trinket
@@ -65788,6 +65915,13 @@ D[#D + 1] = [==[
 801014:Soulwood Spire	staff 2h weapon
 1692686:Soulwrenching Claws	fist weapon
 1670852:Soulwrenching Shortblade	dagger weapon
+8267112:Sour Apple Lollibop	mace 2h weapon
+8129863:Sous Chef's Belt	cosmetic waist belt
+8129864:Sous Chef's Boots	cosmetic feet boots
+8129860:Sous Chef's Gloves	cosmetic hands gloves gauntlets
+8129861:Sous Chef's Hat	cosmetic head helm helmet
+8129859:Sous Chef's Jacket	cosmetic chest
+8129862:Sous Chef's Pants	cosmetic legs pants
 135610:South Gate Blunderbuss	gun ranged weapon
 7409004:South Guard's Copper Boots	cosmetic feet boots
 7409008:South Guard's Copper Chausses	cosmetic legs pants
@@ -66096,6 +66230,7 @@ D[#D + 1] = [==[
 457895:Spearhead Faceguard	mail head helm helmet
 457895:Spearhead Helm	leather head helm helmet
 660753:Spearman's Jingling Leggings	mail legs pants
+8267112:Spearmint Lollibop	mace 2h weapon
 134699:Special Issue Legplates	plate legs pants
 133023:Specialized Bio-Optic Killshades	plate head helm helmet
 644269:Specialized Retinal Armor	plate head helm helmet
@@ -66450,6 +66585,7 @@ D[#D + 1] = [==[
 414304:Spirit Creeper Ring	finger ring
 649877:Spirit Crusher	mace 1h weapon
 237527:Spirit Drain
+7893791:Spirit Effigy	cosmetic back cloak cape
 133119:Spirit Hunter Headdress	leather head helm helmet
 796426:Spirit Keeper Footguards	leather feet boots
 796430:Spirit Keeper Helm	leather head helm helmet
@@ -67471,6 +67607,7 @@ D[#D + 1] = [==[
 237455:Steel-Lined Locking System	shield offhand
 457778:Steel-Patched Armbands	mail wrist bracers
 367810:Steel-Patched Belt	plate waist belt
+4237706:Steel-Plated Cushion Boots	cosmetic feet boots
 1559579:Steel-Reinforced Cage Helm	plate head helm helmet
 132588:Steel-Tipped Snowboots	plate feet boots
 135530:Steelarrow Crossbow	crossbow ranged weapon
@@ -73804,6 +73941,7 @@ D[#D + 1] = [==[
 5357696:Twisted Flamecuffs	mail wrist bracers
 1114908:Twisted Guardian's Profane Barrier	shield offhand
 133542:Twisted Hooligan Whacker	mace 1h weapon
+8268563:Twisted Horror's Tendril	trinket
 3790062:Twisted Judicator's Gavel	mace 2h weapon
 4291720:Twisted Leather Belt	leather waist belt
 4291722:Twisted Leather Bindings	leather wrist bracers
@@ -74832,6 +74970,7 @@ D[#D + 1] = [==[
 135054:Uvuros Plated Spaulders	plate shoulder shoulders spaulders pauldrons
 940655:Uzko's Dusty Boots	leather feet boots
 773257:Vaccinator's Armwraps	cloth wrist bracers
+8068517:Vacpack 84-X	cosmetic back cloak cape
 135681:Vaelan's Claw	dagger weapon
 7445747:Vaelgor's Fearsome Grasp	leather hands gloves gauntlets
 7636706:Vaelgor's Final Stare	trinket
@@ -75488,6 +75627,7 @@ D[#D + 1] = [==[
 133775:Veil of Eclipse	cloth back cloak cape
 237022:Veil of Lies	trinket
 3552748:Veil of the Banshee Queen	cloth head helm helmet
+7865323:Veil of the Feral Rite	leather head helm helmet
 446120:Veil of the Silent Listener	cloth head helm helmet
 135083:Veil of Turning Leaves	leather shoulder shoulders spaulders pauldrons
 1116557:Veil of Unseen Strikes	leather head helm helmet
@@ -75504,6 +75644,12 @@ D[#D + 1] = [==[
 647747:Veiled Raiment	cloth chest robe
 4051740:Veiled Tormentor's Mantle	cosmetic shoulder shoulders spaulders pauldrons
 7416517:Veilroot Fountain
+7876616:Veilshroud Gauntlets	plate hands gloves gauntlets
+7865322:Veilshroud Grips	leather hands gloves gauntlets
+7871830:Veilshroud Vambraces	mail hands gloves gauntlets
+7874490:Veilshroud Wraps	cloth hands gloves gauntlets
+7875759:Veilweaver Trousers	cloth legs pants
+7874492:Veilweaver's Shadowgown	cloth chest robe
 801135:Vein-Cover Bracers	mail wrist bracers
 337689:Veincrusher Gauntlets	plate hands gloves gauntlets
 337690:Veincrusher Gauntlets	plate hands gloves gauntlets
@@ -78660,6 +78806,7 @@ D[#D + 1] = [==[
 6853746:Voidwarped Sash	cloth waist belt
 7393674:Voidwarped Scale Girdle	mail waist belt
 132497:Voidweave Cilice	cloth waist belt
+7807657:Voidweaver's Leggings	cloth legs pants
 1031664:Voidwhisper Drape	cloth back cloak cape
 6118878:Voidwind Belt	cloth waist belt
 6118880:Voidwind Bindings	cloth wrist bracers
@@ -79864,7 +80011,9 @@ D[#D + 1] = [==[
 1091553:Warmongering Gladiator's Mantle of Cruelty	cloth shoulder shoulders spaulders pauldrons
 1091555:Warmongering Gladiator's Mooncloth Cord	cloth waist belt
 1091559:Warmongering Gladiator's Mooncloth Gloves	cloth hands gloves gauntlets
-1091560:Warmongering Gladiator's Mooncloth Helm	cloth head helm helmet
+1091560:Warmongering Gladiator's Mooncloth Helm	cloth head helm helmet]==]
+
+D[#D + 1] = [==[
 1091561:Warmongering Gladiator's Mooncloth Leggings	cloth legs pants
 1091563:Warmongering Gladiator's Mooncloth Mantle	cloth shoulder shoulders spaulders pauldrons
 1091562:Warmongering Gladiator's Mooncloth Robe	cloth chest robe
@@ -80011,9 +80160,7 @@ D[#D + 1] = [==[
 134588:Warped Leather Pants	leather legs pants
 135009:Warped Leather Vest	leather chest
 132495:Warped-Plate Belt	plate waist belt
-132746:Warped-Plate Breastplate	plate chest]==]
-
-D[#D + 1] = [==[
+132746:Warped-Plate Breastplate	plate chest
 132962:Warped-Plate Gauntlets	plate hands gloves gauntlets
 133071:Warped-Plate Helmet	plate head helm helmet
 134583:Warped-Plate Leggings	plate legs pants
@@ -80855,6 +81002,7 @@ D[#D + 1] = [==[
 7137563:Whispers of K'aresh	finger ring
 132962:Whispersteel Handguards	mail hands gloves gauntlets
 1560905:Whisperstep Runners	cloth feet boots
+7893615:Whisperthorn Ritual Knife	dagger weapon
 132562:Whisperwalk Boots	leather feet boots
 457788:Whisperwind Armbands	leather wrist bracers
 133119:Whisperwind Headdress	leather head helm helmet
@@ -81750,6 +81898,7 @@ D[#D + 1] = [==[
 6913914:Wildthorn Razorfang	sword 1h weapon
 1661330:Wildtusk Ivory Cudgel	mace 1h weapon
 1692757:Wildtusk Ivory Headcracker	mace 2h weapon
+7865325:Wildwarden's Guise	leather shoulder shoulders spaulders pauldrons
 132624:Wildwood Chain	plate chest
 132493:Wildwood Chain Links	mail waist belt
 929914:Wildwood Wrangler Belt	mail waist belt
@@ -82403,6 +82552,20 @@ D[#D + 1] = [==[
 133023:Wonderheal XT40 Shades	leather head helm helmet
 133023:Wonderheal XT68 Shades	leather head helm helmet
 132402:Wood Chopper	axe 2h weapon
+8261021:Wood Haunter's Bell-Crook	staff 2h weapon
+8261021:Wood Haunter's Bell-Scythe	polearm 2h weapon
+8263317:Wood Haunter's Belt	cosmetic waist belt
+8263309:Wood Haunter's Boots	cosmetic feet boots
+8263311:Wood Haunter's Cloak	cosmetic back cloak cape
+8246091:Wood Haunter's Frost Fetish	offhand held
+8246091:Wood Haunter's Frost Scepter	mace 1h weapon
+8263313:Wood Haunter's Gloves	cosmetic hands gloves gauntlets
+8263312:Wood Haunter's Hauberk	cosmetic chest
+8263314:Wood Haunter's Helm	cosmetic head helm helmet
+8246169:Wood Haunter's Hide Piercer	bow ranged weapon
+8263315:Wood Haunter's Leggings	cosmetic legs pants
+8263316:Wood Haunter's Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
+8263316:Wood Haunter's Reversed Pauldrons	cosmetic shoulder shoulders spaulders pauldrons
 135641:Woodchipper Dagger	dagger weapon
 135646:Wooden Boomerang	thrown weapon
 134955:Wooden Buckler	shield offhand
