@@ -1,5 +1,5 @@
--- Auto-generated from wago.tools db2 exports (build 12.1.5.70391). Do not edit by hand.
--- 84032 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
+-- Auto-generated from wago.tools db2 exports (build 12.1.5.70448). Do not edit by hand.
+-- 84043 unique (name, icon) pairs. Updated daily by the iconsearch-module Lambda in PeaversAddonDataSupplier.
 local _, addonTable = ...
 
 addonTable.ItemIconData = addonTable.ItemIconData or {}
@@ -5745,6 +5745,7 @@ D[#D + 1] = [==[
 135672:Blade of the Archmage	sword 1h weapon
 135353:Blade of the Basilisk	sword 1h weapon
 7490210:Blade of the Blind Verdict	sword 1h weapon
+1278409:Blade of the Blood Knight Matriarch	sword 1h weapon
 464636:Blade of the Burning Sun	sword 1h weapon
 2429720:Blade of the Deeplurk Honorguard	sword 1h weapon
 135407:Blade of the Empty Void	sword 1h weapon
@@ -20004,10 +20005,10 @@ D[#D + 1] = [==[
 135665:Dragonfang Blade	dagger weapon
 4624639:Dragonfire Bomb Dispenser	trinket
 519399:Dragonfire Gloves	mail hands gloves gauntlets
-528948:Dragonfire Orb	offhand held
-132463:Dragonflayer Hatchet	axe 1h weapon]==]
+528948:Dragonfire Orb	offhand held]==]
 
 D[#D + 1] = [==[
+132463:Dragonflayer Hatchet	axe 1h weapon
 132610:Dragonflayer Seer's Bindings	mail wrist bracers
 535824:Dragonflayer Vest	mail chest
 135527:Dragonflayer's Heartpiercer	bow ranged weapon
@@ -40006,10 +40007,10 @@ D[#D + 1] = [==[
 134695:Judicator's Legguards	plate legs pants
 3447986:Judicious Aspirant's Gauntlets	plate hands gloves gauntlets
 3447986:Judicious Aspirant's Gloves	plate hands gloves gauntlets
-3447987:Judicious Aspirant's Helm	plate head helm helmet
-3447988:Judicious Aspirant's Legguards	plate legs pants]==]
+3447987:Judicious Aspirant's Helm	plate head helm helmet]==]
 
 D[#D + 1] = [==[
+3447988:Judicious Aspirant's Legguards	plate legs pants
 3447982:Judicious Aspirant's Warboots	plate feet boots
 3447983:Judicious Aspirant's Wristwraps	plate wrist bracers
 135150:Judkins' Staff	staff 2h weapon
@@ -57141,6 +57142,15 @@ D[#D + 1] = [==[
 538571:Revitalizing Voodoo Totem	trinket
 132604:Revitalizing Wristguards	cloth wrist bracers
 5833839:Revved-Up Vambraces	plate wrist bracers
+8202898:Rexxar's Fabled Belt	cosmetic waist belt
+8202899:Rexxar's Fabled Boots	cosmetic feet boots
+8202892:Rexxar's Fabled Chestguard	cosmetic chest
+8202891:Rexxar's Fabled Cloak	cosmetic back cloak cape
+8202894:Rexxar's Fabled Cowl	cosmetic head helm helmet
+8202893:Rexxar's Fabled Gloves	cosmetic hands gloves gauntlets
+8202895:Rexxar's Fabled Leggings	cosmetic legs pants
+8202896:Rexxar's Fabled Padded Shoulders	cosmetic shoulder shoulders spaulders pauldrons
+8202897:Rexxar's Fabled Spiked Shoulders	cosmetic shoulder shoulders spaulders pauldrons
 132160:Rezan's Gleaming Eye	trinket
 3547162:Rezara's Fencing Grips	leather hands gloves gauntlets
 3954409:Rhapsodic Cleaver	axe 2h weapon
@@ -59999,7 +60009,9 @@ D[#D + 1] = [==[
 134675:Savage Gladiator's Mail Leggings	mail legs pants
 237462:Savage Gladiator's Mail Spaulders	mail shoulder shoulders spaulders pauldrons
 132987:Savage Gladiator's Mooncloth Gloves	cloth hands gloves gauntlets
-237037:Savage Gladiator's Mooncloth Hood	cloth head helm helmet
+237037:Savage Gladiator's Mooncloth Hood	cloth head helm helmet]==]
+
+D[#D + 1] = [==[
 134622:Savage Gladiator's Mooncloth Leggings	cloth legs pants
 237458:Savage Gladiator's Mooncloth Mantle	cloth shoulder shoulders spaulders pauldrons
 132704:Savage Gladiator's Mooncloth Robe	cloth chest robe
@@ -60009,9 +60021,7 @@ D[#D + 1] = [==[
 133106:Savage Gladiator's Ornamented Headcover	plate head helm helmet
 134703:Savage Gladiator's Ornamented Legplates	plate legs pants
 135087:Savage Gladiator's Ornamented Spaulders	plate shoulder shoulders spaulders pauldrons
-237489:Savage Gladiator's Piercing Touch	wand weapon]==]
-
-D[#D + 1] = [==[
+237489:Savage Gladiator's Piercing Touch	wand weapon
 237495:Savage Gladiator's Pike	polearm 2h weapon
 132757:Savage Gladiator's Plate Chestpiece	plate chest
 132985:Savage Gladiator's Plate Gauntlets	plate hands gloves gauntlets
@@ -62373,6 +62383,7 @@ D[#D + 1] = [==[
 134955:Shield of Talrendis Point	shield offhand
 134962:Shield of the Barrens	shield offhand
 514535:Shield of the Blood God	shield offhand
+2394723:Shield of the Blood Knight Matriarch	shield offhand
 618984:Shield of the Devourer	shield offhand
 642581:Shield of the Eternal Noon	shield offhand
 135940:Shield of the Faith	shield offhand
@@ -68645,7 +68656,7 @@ D[#D + 1] = [==[
 134194:Stratholme Lily	offhand held
 135045:Stratholme Militia Shoulderguard	mail shoulder shoulders spaulders pauldrons
 422795:Stratosphere Belt	cloth waist belt
-537766:Straw Hat	cosmetic head helm helmet cloth leather mail plate
+537766:Straw Hat	cosmetic head helm helmet cloth plate leather mail
 134656:Straw-Lined Leggings	mail legs pants
 6893245:Strawhat of Frosted Currents	cosmetic head helm helmet
 132549:Streamlined Stompers	mail feet boots
@@ -80000,7 +80011,9 @@ D[#D + 1] = [==[
 1096098:Warmongering Gladiator's Linked Spaulders	mail shoulder shoulders spaulders pauldrons
 1096089:Warmongering Gladiator's Linked Waistband	mail waist belt
 1062855:Warmongering Gladiator's Longbow	bow ranged weapon
-1062611:Warmongering Gladiator's Mageblade	sword 1h weapon
+1062611:Warmongering Gladiator's Mageblade	sword 1h weapon]==]
+
+D[#D + 1] = [==[
 1096097:Warmongering Gladiator's Mail Armor	mail chest robe
 1096091:Warmongering Gladiator's Mail Footguards	mail feet boots
 1096094:Warmongering Gladiator's Mail Gauntlets	mail hands gloves gauntlets
@@ -80011,9 +80024,7 @@ D[#D + 1] = [==[
 1091553:Warmongering Gladiator's Mantle of Cruelty	cloth shoulder shoulders spaulders pauldrons
 1091555:Warmongering Gladiator's Mooncloth Cord	cloth waist belt
 1091559:Warmongering Gladiator's Mooncloth Gloves	cloth hands gloves gauntlets
-1091560:Warmongering Gladiator's Mooncloth Helm	cloth head helm helmet]==]
-
-D[#D + 1] = [==[
+1091560:Warmongering Gladiator's Mooncloth Helm	cloth head helm helmet
 1091561:Warmongering Gladiator's Mooncloth Leggings	cloth legs pants
 1091563:Warmongering Gladiator's Mooncloth Mantle	cloth shoulder shoulders spaulders pauldrons
 1091562:Warmongering Gladiator's Mooncloth Robe	cloth chest robe
